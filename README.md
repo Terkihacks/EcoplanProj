@@ -1,4 +1,4 @@
-Health-Watch - AI platform for African Healthcare Facilities
+Ecoplan Tech Support Sytem- A User Support System for a Agency
 Welcome to the Health watch repository! Health Watch is an AI-driven platform that detects and monitors disease outbreaks in Africa before they spread. Health Watch uses AI and machine learning algorithms to identify unusual patterns that may indicate emerging health threats through the analysis of data from various data sources, such as social media, news reports, and medical literature.
 
 Structure
